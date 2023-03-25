@@ -1,8 +1,6 @@
 #  Guess Number Reversed Game
 #  Author: Kajetan Mroske
 
-import random
-
 
 print('''\nThink about a number in between 0 and 1000...
 I'm going to guess it in 10 moves! \n
